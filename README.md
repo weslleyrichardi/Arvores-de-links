@@ -1,4 +1,4 @@
-<h1 align="center">Acesse os projetos pelos links a baixo</h1>
+<h1 align="center">Acesse os projetos pelos links abaixo</h1>
 <br>
 [ Código de identificação ] - [ Cliente "Nome" ]
 <br>
