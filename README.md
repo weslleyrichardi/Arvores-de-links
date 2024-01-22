@@ -6,5 +6,5 @@ https://weslleyrichardi.github.io/DevLinks-WeslleyRichard/
 
 [ TIPO ] - [ Cliente "Nome" ] - [ Site ]
 <br>
-Fictício  - <a href="https://www.instagram.com/milionario_positivo_/">@milionario_positivo_</a> - <a href="https://weslleyrichardi.github.io/Arvore-de-Links-milionario_positivo/">site001</a><br>
-Fictício - <a href="https://www.instagram.com/richasfy_/">@Richasfy_</a> - <a href="https://weslleyrichardi.github.io/Richasfy/">site002</a>
+Fictício  - <a href="https://www.instagram.com/milionario_positivo_/">@milionario_positivo_</a> - <a href="https://weslleyrichardi.github.io/DevLinks-Milionario_Positivo/">site001</a><br>
+Fictício - <a href="https://www.instagram.com/richasfy_/">@Richasfy_</a> - <a href="https://weslleyrichardi.github.io/DevLinks-Richasfy/">site002</a>
